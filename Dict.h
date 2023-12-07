@@ -5,10 +5,7 @@
 
 template <typename V> 
 class Dict {
-    public:
-	    std::string key;
-	    V value;
-	    int size;
+    pubic:
 	    	
 	    void insert(std::string key, V value){
 	    }
